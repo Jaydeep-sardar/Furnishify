@@ -4,14 +4,6 @@
 **Furnishify** is a modern and responsive furniture website created using **HTML** and **CSS**.  
 It showcases a sleek design, product sections, testimonials, and an informative footer — perfect for a furniture or interior design brand.
 
----
-
-## 🌐 Live Demo
-
-🔗 http://127.0.0.1:5500/
-
-
----
 
 ## 🌟 Features
 
