@@ -10,7 +10,6 @@ It showcases a sleek design, product sections, testimonials, and an informative 
 
 🔗 http://127.0.0.1:5500/
 
-> Replace this URL with your actual GitHub Pages or hosting link after deployment.
 
 ---
 
@@ -20,7 +19,7 @@ It showcases a sleek design, product sections, testimonials, and an informative 
 - Navigation bar with logo
 - Product categories with images and descriptions
 - About Us & Get in Touch sections
-- Customer reviews (Indian + international)
+- Customer reviews
 - Font Awesome icons integration
 - Footer with contact and social links
 
