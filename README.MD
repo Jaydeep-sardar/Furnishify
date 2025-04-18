@@ -57,7 +57,7 @@ It showcases a sleek design, product sections, testimonials, and an informative 
 ## 🧑‍💻 Author
   
 You're welcome to explore the code and raise issues or suggestions via the [Issues](../../issues) tab.  
-However, please **do not fork, copy, or modify** this project without permission.
+
 ---
 
 ### 💛 Thank you for visiting Furnishify!
