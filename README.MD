@@ -1,27 +1,35 @@
 
 # 🪑 Furnishify – Premium Furniture Website
 
-**Furnishify** is a modern furniture website created using HTML and CSS.  
-It features a clean, responsive layout perfect for showcasing furniture products, customer reviews, and essential company info.
+**Furnishify** is a modern and responsive furniture website created using **HTML** and **CSS**.  
+It showcases a sleek design, product sections, testimonials, and an informative footer — perfect for a furniture or interior design brand.
+
+---
+
+## 🌐 Live Demo
+
+🔗 http://127.0.0.1:5500/
+
+> Replace this URL with your actual GitHub Pages or hosting link after deployment.
 
 ---
 
 ## 🌟 Features
 
-- Responsive design
-- Stylish navbar with logo
-- Product categories and banners
+- Responsive and clean design
+- Navigation bar with logo
+- Product categories with images and descriptions
 - About Us & Get in Touch sections
-- Customer reviews
-- Font Awesome icons
-- Footer with key information
+- Customer reviews (Indian + international)
+- Font Awesome icons integration
+- Footer with contact and social links
 
 ---
 
-## 📁 Project Structure
+## 🧩 Project Structure
 
 ```
-📂 Furnishify/
+📁 Furnishify/
 ├── index.html
 ├── style.css
 └── assets/
@@ -32,31 +40,24 @@ It features a clean, responsive layout perfect for showcasing furniture products
 
 ## 💻 Built With
 
-- **HTML5** – Markup for structure
-- **CSS3** – Styling and layout
-- **Font Awesome 6.4.0** – Icons
+- **HTML5** – Page structure  
+- **CSS3** – Styling and layout  
+- **Font Awesome 6.4.0** – For icons
 
-```
 
----
 
-## 🛠️ How to Use
+## 🚀 How to Use
 
-1. Clone or download the repository
-2. Open `index.html` in any modern browser
-3. Customize text, images, or styles if needed
+1. Clone or download the repository  
+2. Open `index.html` in your browser  
+3. Customize the content and styles as needed  
 
 ---
 
 ## 🧑‍💻 Author
-
-Feel free to check out the code, suggest improvements.
+  
+You're welcome to explore the code and raise issues or suggestions via the [Issues](../../issues) tab.  
+However, please **do not fork, copy, or modify** this project without permission.
 ---
 
-
----
-
-### 🙌 Thank you for visiting Furnishify!
-```
-
----
+### 💛 Thank you for visiting Furnishify!
