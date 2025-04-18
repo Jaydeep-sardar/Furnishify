@@ -1,4 +1,4 @@
----
+
 # 🪑 Furnishify – Premium Furniture Website
 
 **Furnishify** is a modern furniture website created using HTML and CSS.  
